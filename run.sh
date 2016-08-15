@@ -1,4 +1,5 @@
 #!/bin/bash
 
-./separate_module.py&
-./interproc.pyw
+./interproc.pyw &
+./separate_module.py
+
